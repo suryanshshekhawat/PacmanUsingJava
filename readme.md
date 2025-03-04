@@ -1,4 +1,5 @@
 # Project README: Design Pattern Guide
+![Image](https://github.com/user-attachments/assets/684d0a3f-3cf1-4278-8906-49ffb7e3e5c5)
 
 ## Overview
 This project implements three key design patterns: **Prototype**, **State**, and **Strategy**. Each pattern plays a vital role in managing game behaviors, object creation, and encapsulating algorithms.
